@@ -1,2 +1,8 @@
 # Study reference (offline only, not for submission)
 study-reference/
+
+# macOS system file
+.DS_Store
+
+# Python cache
+__pycache__/
